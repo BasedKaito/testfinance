@@ -1,0 +1,23 @@
+{
+  "short_name": "MoonCake",
+  "name": "MoonCake",
+  "description": "Farm CAKE with MoonCake LP Tokens",
+  "homepage_url": "https://mooncakebsc.biz",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#F9218D",
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
